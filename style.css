@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+  background: black;
+  width: 200px;
+  margin: 4px;
+  border-radius: 5%;
+  margin-left: 40%;
+}
+#article{
+  margin-left: 10px;
+  padding: 5px;
+}
+.numbers{
+  width: 40px;
+  height: 40px; 
+  border-radius: 30px;
+  
+}
+.operators{
+  width: 40px;
+  height: 40px; 
+  border-radius: 30px;
+  background: orange;
+}
+.others{
+  width: 40px;
+  height: 40px; 
+  border-radius: 30px;
+  background: rgb(143, 140, 140);
+}
+#point{
+  background: rgb(143, 140, 140);
+}
+#equal{
+  width:130px ;
+  height: 40px; 
+  border-radius: 30px;
+  
+}
+#input{
+ /* border-radius: 30px; */
+ border: none;
+ height: 40px; 
+ padding: 4px;
+ background: black;
+ color: white;
+}
+#input2{
+  border: none;
+  height: 40px; 
+  padding: 4px;
+  background: black;
+  color: rgb(148, 145, 145);
+ }
